@@ -1,5 +1,5 @@
 
-import ripcoinBlock
+from ripcoinBlock import Block
 import datetime as date
 
 def createGenesisBlock():

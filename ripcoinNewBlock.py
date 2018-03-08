@@ -1,4 +1,7 @@
 
+from ripcoinBlock import Block
+import datetime as date
+
 def nextBlock(lastBlock):
 
 	thisIndex = lastBlock.index + 1

@@ -1,6 +1,6 @@
 
 import ripcoinGenesis as gen
-
+from ripcoinNewBlock import nextBlock 
 
 #create chain & genesis block
 blockchain = [gen.createGenesisBlock()]
